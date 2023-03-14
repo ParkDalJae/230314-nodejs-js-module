@@ -1,0 +1,25 @@
+{
+  "name": "230314-nodejs-js-module",
+  "version": "1.0.0",
+  "description": "\"연습이야\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParkDalJae/230314-nodejs-js-module.git"
+  },
+  "keywords": [
+    "\"연습\""
+  ],
+  "author": "\"나\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParkDalJae/230314-nodejs-js-module/issues"
+  },
+  "homepage": "https://github.com/ParkDalJae/230314-nodejs-js-module#readme",
+  "dependencies": {
+    "pokemon": "^2.3.4"
+  }
+}
